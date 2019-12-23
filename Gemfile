@@ -65,3 +65,5 @@ group :development, :test do
 end
 
 gem 'jquery-rails'
+
+gem "rack", ">= 2.0.8"
